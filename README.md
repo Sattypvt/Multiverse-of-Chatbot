@@ -1,4 +1,5 @@
-# 🤖 AI Persona Chatbot
+# 🤖 MULTIVERSE OF CHATBOT
+
 
 An interactive AI chatbot built with **Python**, **Streamlit**, and **Google Gemini API** as part of the **MirAI School of Technology – Virtual Summer Internship 2026 (AI Builder Track)**.
 
